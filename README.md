@@ -28,8 +28,8 @@
     </nav>
     <div class="home-content" id="home-page">
       <div class="name">
-        <h1>Hi, I'm Sanket</h1>
-        <p>A Web Developer in training.</p>
+        <h1>Hi, I'm Rakshita Shetty</h1>
+        <p>Engineering Student.</p>
       </div>
       <div class="angle-down-icon">
         <a href="#about"><i class="fas fa-angle-down"></i></a>
@@ -45,9 +45,7 @@
           </div>
           <img src="https://i.postimg.cc/Hx4nChpH/fbavatar-1630400663387-6838396024049256103.png" alt="image" />
           <p>
-            I am 16 year old, BBA-CA student studied at Pratibha College of Commerce and Computer studies.
-            I really enjoy solving problems as well as making things pretty and easy to use. I can't stop learning new
-            things; the more, the better.
+           I’m Rakshita Shetty, a 3rd-year Information Science and Engineering student at Canara Engineering College. Passionate about full-stack development, IoT, AI, and problem-solving, I enjoy creating projects that have real-world impact. Skilled in Java, C, HTML, and CSS, with strong communication, leadership, and time-management abilities.
           </p>
           <div class="work-arrow">
             <p>
@@ -155,16 +153,10 @@
       <div class="contact-content">
         <h2>Contact Me</h2>
         <p class="mail">
-          Get in touch with me <i class="fas fa-arrow-right"></i> sanketbodke26@gmail.com
+          Get in touch with me <i class="fas fa-arrow-right"></i> rakshitashetty707@gmail.com
         </p>
-        <p class="links">Or find me on:</p>
-        <a href="https://www.linkedin.com/in/sanket-bodake-995b5b205/" target="blank"><i class="fab fa-linkedin">
-            Linkedin</i></a>
-        <a href="https://codepen.io/sanketbodke" target="blank"><i class="fab fa-codepen"> CodePen</i></a>
-        <a href="https://github.com/sanketbodke" target="blank"><i class="fab fa-github"></i> Github</a>
-        <a href="https://dev.to/sanketbodake" target="blank"><i class="fab fa-dev"></i> Dev Community</a>
-        <a href="https://twitter.com/Sanket46171296" target="blank"><i class="fab fa-twitter"> Twitter</i></a>
-        <a href="https://www.instagram.com/imsanketbodke/" target="blank"><i class="fab fa-instagram"></i> Instagram</a>
+        
+      
       </div>
     </div>
   </div>
